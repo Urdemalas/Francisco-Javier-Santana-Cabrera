@@ -22,7 +22,7 @@ public class Main {
         }
         try {
             System.out.println("Ingreso en cuenta");
-            cuenta1.ingresar(695);
+            cuenta1.ingresar(900);
         } catch (Exception e) {
             System.out.print("Fallo al ingresar");
         }
